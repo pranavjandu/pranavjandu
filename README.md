@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm Pranav Jandu</h1>
 <h3 align="center">A creative thinker, experienced engineer adept in all stages of development who believes that learning is a never ending process.</h3>
 
-- 🔭 I’m currently working on [a NFT marketplace as a service startup](https://buqo.io/)
+- 🔭 I built [a NFT marketplace as a service startup](https://buqo.io/)
 
 - 🌱 I’m currently learning **AWS and Azure cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavjandu?tab=repositories](https://github.com/pranavjandu?tab=repositories)
 
-- 💬 Ask me about **JavaScript, React & Spring**
+- 💬 Ask me about **Java, JavaScript, React & Spring**
 
 - 📫 How to reach me **pranav.jandu@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1IW-rJW1Nylj_sNQvPHI8oq2XX7EgocSc/view](https://drive.google.com/file/d/1IW-rJW1Nylj_sNQvPHI8oq2XX7EgocSc/view)
+- 📄 Know about my experiences [Resume(PDF)](https://drive.google.com/file/d/1CJkxcdNbyqeDfEQ4Sr8nD00KelX1MgBA/view?usp=sharing)
 
-- ⚡ Fun fact **I love to try out new tech stacks through freelance projects.**
+- ⚡ Fun fact **I love to deep dive into CS fundamentals and try out new tech stacks through freelance projects.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
