@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pranav Jandu</h1>
-<h3 align="center">A creative thinker, experienced engineer adept in all stages of development who believes that learning is a never ending process.</h3>
+<h3 align="center">I’ve been interested in software development for as long as I can remember. </h3>
+<h3 align="center">My philosophy: understanding the domain is crucial to write good software. This belief fuels my deep interest in domain-driven design and software architecture. Speaking of code, I would mainly consider myself a backend developer who doesn’t shy away from the frontend if need be.</h3>
 
-- 🔭 I built [a NFT marketplace as a service startup](https://buqo.io/)
+- 🫡 I work in the Fintech domain (Payments & Banking specifically), as a backend engineer.
 
-- 🌱 I’m currently learning **AWS and Azure cloud**
+- 🔭 I built a NFT marketplace SaaS startup as part of the founding team. (Failed)
+
+- 🌱 I’m currently learning **AWS cloud**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavjandu?tab=repositories](https://github.com/pranavjandu?tab=repositories)
 
@@ -13,7 +16,7 @@
 
 - 📄 Know about my experiences [Resume(PDF)](https://drive.google.com/file/d/1CJkxcdNbyqeDfEQ4Sr8nD00KelX1MgBA/view?usp=sharing)
 
-- ⚡ Fun fact **I love to deep dive into CS fundamentals and try out new tech stacks through freelance projects.**
+- ⚡ Fun fact **I love to deep dive into CS fundamentals and try out new tech stacks.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
