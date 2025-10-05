@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Pranav Jandu</h1>
 <h3 align="center">I’ve been interested in software development for as long as I can remember. </h3>
-<h3 align="center">My philosophy: understanding the domain is crucial to write good software. This belief fuels my deep interest in domain-driven design and software architecture. Speaking of code, I would mainly consider myself a backend developer who doesn’t shy away from the frontend if need be.</h3>
+<h3 align="center">I have a deep interest in domain-driven design and software architecture. I believe understanding the domain is crucial to write good software. Speaking of code, I would mainly consider myself a backend developer who doesn’t shy away from the frontend if need be.</h3>
 
-- 🫡 I work in the Fintech domain (Payments & Banking specifically), as a backend engineer.
+- 💼 I currently work at Priority (NASDAQ:PRTH) building scalable Payments system & Unified Commerce Engine.
 
-- 🔭 I built a NFT marketplace SaaS startup as part of the founding team. (Failed)
+- 🔭 I built a NFT marketplace-as-a-service startup as part of the founding team. (Failed)
 
-- 🌱 I’m currently learning **AWS cloud**
+- 🌱 I’m currently experimenting with **AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pranavjandu?tab=repositories](https://github.com/pranavjandu?tab=repositories)
 
